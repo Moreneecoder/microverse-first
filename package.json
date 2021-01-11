@@ -1,0 +1,23 @@
+{
+  "name": "1st-project",
+  "version": "1.0.0",
+  "description": "Hi! I'm Morenikeji and this is my first microverse project. The task is to set up git and github and also add linters to my html and css files. A gitignore file ignoring the test.md file is also to be added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moreneecoder/microverse-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moreneecoder/microverse-first/issues"
+  },
+  "homepage": "https://github.com/Moreneecoder/microverse-first#readme",
+  "devDependencies": {
+    "stylelint": "^13.8.0",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
